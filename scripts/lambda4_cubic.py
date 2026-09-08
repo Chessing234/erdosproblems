@@ -11,10 +11,14 @@ def cubic(y: float) -> float:
     return ((512 * y - 1227) * y + 600) * y + 125
 
 
+def has_sign_change(lo: float, hi: float) -> bool:
+    return cubic(lo) * cubic(hi) < 0
+
+
 def unique_real_root(lo: float = 1.1, hi: float = 1.6, steps: int = 80) -> float:
     """Bisection on an interval where the cubic changes sign once."""
     flo, fhi = cubic(lo), cubic(hi)
-    if flo * fhi > 0:
+    if not has_sign_change(lo, hi):
         raise ValueError("no sign change")
     for _ in range(steps):
         mid = (lo + hi) / 2

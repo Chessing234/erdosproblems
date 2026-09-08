@@ -43,6 +43,8 @@ def v(k: int, ncap: int | None = None) -> int:
     """Smallest m > 1 absent from all k-term decompositions with n_k ≤ ncap."""
     if k < 1:
         raise ValueError("k must be positive")
+    if ncap is not None and ncap < 1:
+        raise ValueError("ncap must be positive")
     if ncap is None:
         ncap = {1: 2, 2: 2, 3: 12, 4: 80, 5: 200}[k]
     dens = appearing_denominators(k, ncap)

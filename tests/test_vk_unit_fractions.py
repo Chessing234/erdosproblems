@@ -35,6 +35,14 @@ def test_k4_matches_issue_403():
     assert 11 not in dens
 
 
+def test_rejects_nonpositive_k():
+    try:
+        v(0)
+    except ValueError:
+        return
+    raise AssertionError("expected ValueError")
+
+
 if __name__ == "__main__":
     test_k1_no_decomposition_above_one()
     test_k2_no_strictly_increasing_split()

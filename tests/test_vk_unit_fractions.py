@@ -48,4 +48,5 @@ if __name__ == "__main__":
     test_k2_no_strictly_increasing_split()
     test_k3_uses_2_3_6_and_misses_4()
     test_k4_matches_issue_403()
+    test_rejects_nonpositive_k()
     print("ok - v(k)")

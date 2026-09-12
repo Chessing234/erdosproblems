@@ -1,19 +1,22 @@
 - number: "1"
   prize: "$500"
   informal_status:
-    state: "open"
+    state: "disproved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-09-03"
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "disproved (Lean)"
+    last_update: "2026-09-03"
   oeis: ["A276661"]
   formalized:
     state: "yes"
     last_update: "2025-08-31"
   forum:
-    posts: 3
+    posts: 4
+    proof_claims: 2
+    proof_claim_posts: 3
   tags: ["number theory", "additive combinatorics"]
 
 - number: "2"
@@ -70,9 +73,9 @@
     last_update: "2025-08-31"
 
   forum:
-    posts: 3
-    proof_claims: 2
-    proof_claim_posts: 16
+    posts: 6
+    proof_claims: 4
+    proof_claim_posts: 34
 - number: "5"
   prize: "no"
   informal_status:
@@ -602,7 +605,7 @@
     state: "yes"
     last_update: "2025-09-04"
   forum:
-    posts: 5
+    posts: 6
   tags: ["number theory", "additive basis"]
 
 - number: "34"
@@ -1026,8 +1029,8 @@
     last_update: "2026-08-24"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-09-09"
   tags: ["graph theory", "chromatic number", "cycles"]
 
 - number: "58"
@@ -1042,8 +1045,8 @@
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-09-09"
   tags: ["graph theory", "chromatic number", "cycles"]
 
 - number: "59"
@@ -1126,8 +1129,8 @@
     last_update: "2026-08-24"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-09-09"
   forum:
     posts: 1
   tags: ["graph theory", "chromatic number", "cycles"]
@@ -1147,7 +1150,7 @@
     state: "yes"
     last_update: "2025-08-31"
   forum:
-    posts: 2
+    posts: 3
     proof_claims: 3
     proof_claim_posts: 6
   tags: ["graph theory", "cycles"]
@@ -1164,8 +1167,8 @@
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-09-09"
   forum:
     posts: 3
   tags: ["graph theory", "cycles"]
@@ -1303,24 +1306,27 @@
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-09-09"
   tags: ["graph theory"]
 
 - number: "74"
   prize: "$500"
   informal_status:
-    state: "open"
+    state: "disproved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-09-03"
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "disproved (Lean)"
+    last_update: "2026-09-03"
   oeis: ["N/A"]
   formalized:
     state: "yes"
     last_update: "2025-09-25"
+  forum:
+    proof_claims: 1
   tags: ["graph theory", "chromatic number", "cycles"]
 
 - number: "75"
@@ -1371,8 +1377,8 @@
     last_update: "2025-08-31"
   oeis: ["A059442"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-09-09"
   forum:
     posts: 3
   tags: ["graph theory", "ramsey theory"]
@@ -1407,8 +1413,8 @@
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-09-09"
   tags: ["graph theory", "ramsey theory"]
 
 - number: "80"
@@ -1445,7 +1451,8 @@
     last_update: "2025-08-31"
   forum:
     posts: 3
-    proof_claims: 1
+    proof_claims: 5
+    proof_claim_posts: 3
   tags: ["graph theory"]
 
 - number: "82"
@@ -1518,7 +1525,7 @@
     last_update: "2025-11-21"
   forum:
     posts: 1
-  tags: ["graph theory"]
+  tags: ["graph theory", "ramsey theory"]
 
 - number: "86"
   prize: "$100"
@@ -1532,8 +1539,8 @@
     last_update: "2025-08-31"
   oeis: ["A245762"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-09-07"
   forum:
     posts: 3
   tags: ["graph theory"]
@@ -1550,8 +1557,8 @@
     last_update: "2025-08-31"
   oeis: ["A059442", "possible"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-09-09"
   tags: ["graph theory", "ramsey theory"]
 
 - number: "88"
@@ -1733,7 +1740,7 @@
     state: "yes"
     last_update: "2025-11-11"
   forum:
-    posts: 7
+    posts: 10
   tags: ["geometry", "distances", "convex"]
 
 - number: "98"
@@ -1751,7 +1758,7 @@
     state: "yes"
     last_update: "2026-05-23"
   forum:
-    posts: 1
+    posts: 4
   tags: ["geometry", "distances"]
 
 - number: "99"
@@ -1784,6 +1791,8 @@
   formalized:
     state: "yes"
     last_update: "2026-01-25"
+  forum:
+    posts: 2
   tags: ["geometry", "distances"]
 
 - number: "101"
@@ -1846,8 +1855,8 @@
     last_update: "2025-08-31"
   oeis: ["A003829"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-09-07"
   forum:
     posts: 4
   tags: ["geometry"]
@@ -1874,12 +1883,12 @@
 - number: "106"
   prize: "no"
   informal_status:
-    state: "falsifiable"
+    state: "disproved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
   status:
-    state: "falsifiable"
+    state: "disproved (Lean)"
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
@@ -2032,7 +2041,8 @@
     state: "no"
     last_update: "2025-08-31"
   forum:
-    posts: 8
+    posts: 9
+    proof_claims: 1
   tags: ["polynomials", "analysis"]
 
 - number: "115"
@@ -2125,8 +2135,8 @@
     state: "yes"
     last_update: "2025-11-27"
   forum:
-    proof_claims: 2
-    proof_claim_posts: 13
+    proof_claims: 4
+    proof_claim_posts: 15
   tags: ["analysis", "polynomials"]
 
 - number: "120"
@@ -2159,8 +2169,8 @@
   status:
     state: "disproved (Lean)"
     last_update: "2026-08-24"
-  oeis: ["A028391", "A013928", "A372306", "A373319", "A372306", "A373178", "A360659",
-    "A373114", "A143301"]
+  oeis: ["A028391", "A013928", "A372306", "A373319", "A373178", "A360659", "A373114",
+    "A143301"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -2221,7 +2231,7 @@
     last_update: "2025-11-12"
   forum:
     posts: 14
-  tags: ["number theory", "base representations"]
+  tags: ["number theory", "base representations", "complete sequences"]
 
 - number: "125"
   prize: "no"
@@ -2245,17 +2255,21 @@
 - number: "126"
   prize: "$250"
   informal_status:
-    state: "open"
+    state: "proved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-09-03"
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-09-03"
   oeis: ["possible"]
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  forum:
+    proof_claims: 3
+    proof_claim_posts: 1
   tags: ["number theory"]
 
 - number: "127"
@@ -2458,7 +2472,7 @@
     last_update: "2025-08-31"
   forum:
     posts: 5
-  tags: ["number theory"]
+  tags: ["number theory", "powerful"]
 
 - number: "138"
   prize: "$500"
@@ -2607,7 +2621,7 @@
 - number: "146"
   prize: "$500"
   informal_status:
-    state: "open"
+    state: "disproved"
     last_update: "2025-08-31"
   formal_status:
     state: "Lean"
@@ -2615,7 +2629,7 @@
     url: "https://github.com/openai/ten-proofs/blob/94bc0feb6a9ff12c7d31d6de640a725c9d43d2b6/CompactnessAndDegeneracy.lean#L18543-L18585"
     note: "counterexample; refutes the degeneracy conjecture"
   status:
-    state: "open (Lean)"
+    state: "disproved (Lean)"
     last_update: "2026-08-02"
   oeis: ["N/A"]
   formalized:
@@ -2854,8 +2868,8 @@
     last_update: "2025-08-31"
   oeis: ["possible"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-09-09"
   tags: ["graph theory", "ramsey theory"]
 
 - number: "160"
@@ -2894,7 +2908,7 @@
     last_update: "2025-08-31"
   forum:
     posts: 3
-  tags: ["combinatorics", "ramsey theory", "discrepancy"]
+  tags: ["combinatorics", "ramsey theory", "discrepancy", "hypergraphs"]
 
 - number: "162"
   prize: "no"
@@ -2926,8 +2940,8 @@
     last_update: "2025-09-13"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-09-09"
   forum:
     posts: 2
   comments: "Burr-Erdős conjecture"
@@ -2982,8 +2996,8 @@
     last_update: "2025-08-31"
   oeis: ["A059442"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-09-09"
   tags: ["graph theory", "ramsey theory"]
 
 - number: "167"
@@ -3144,8 +3158,8 @@
     last_update: "2026-08-24"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-09-02"
   forum:
     posts: 4
   tags: ["number theory", "binomial coefficients"]
@@ -3222,7 +3236,7 @@
 - number: "180"
   prize: "no"
   informal_status:
-    state: "open"
+    state: "disproved"
     last_update: "2025-08-31"
   formal_status:
     state: "Lean"
@@ -3230,14 +3244,14 @@
     url: "https://github.com/openai/ten-proofs/blob/94bc0feb6a9ff12c7d31d6de640a725c9d43d2b6/CompactnessAndDegeneracy.lean#L8967-L8970"
     note: "counterexample; refutes the compactness conjecture"
   status:
-    state: "open (Lean)"
+    state: "disproved (Lean)"
     last_update: "2026-08-02"
   oeis: ["N/A"]
   formalized:
     state: "yes"
     last_update: "2026-08-07"
   forum:
-    posts: 6
+    posts: 7
   tags: ["graph theory", "turan number"]
 
 - number: "181"
@@ -3252,8 +3266,8 @@
     last_update: "2025-08-31"
   oeis: ["possible"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-09-07"
   forum:
     posts: 1
   tags: ["graph theory", "ramsey theory"]
@@ -3281,14 +3295,14 @@
 - number: "183"
   prize: "$250"
   informal_status:
-    state: "open"
+    state: "solved"
     last_update: "2025-08-31"
   formal_status:
     state: "Lean"
     last_update: "2026-08-01"
     url: "https://github.com/openai/ten-proofs/blob/94bc0feb6a9ff12c7d31d6de640a725c9d43d2b6/MulticolorTriangleRamsey.lean#L2999-L3051"
   status:
-    state: "open (Lean)"
+    state: "solved (Lean)"
     last_update: "2026-08-01"
   oeis: ["A003323"]
   formalized:
@@ -3363,7 +3377,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
-  tags: ["additive combinatorics", "ramsey theory"]
+  tags: ["additive combinatorics", "ramsey theory", "arithmetic progressions"]
 
 - number: "188"
   prize: "no"
@@ -3461,20 +3475,21 @@
 - number: "193"
   prize: "no"
   informal_status:
-    state: "open"
+    state: "disproved"
     last_update: "2025-08-31"
   formal_status:
     state: "unformalized"
   status:
-    state: "open"
+    state: "disproved"
     last_update: "2025-08-31"
   oeis: ["A231255"]
   formalized:
     state: "yes"
     last_update: "2026-03-05"
   forum:
-    posts: 2
-    proof_claims: 1
+    posts: 4
+    proof_claims: 4
+    proof_claim_posts: 8
   tags: ["geometry"]
 
 - number: "194"
@@ -3671,8 +3686,8 @@
     state: "yes"
     last_update: "2026-01-17"
   forum:
-    posts: 1
-  tags: ["covering systems"]
+    posts: 2
+  tags: ["covering systems", "divisors"]
 
 - number: "205"
   prize: "no"
@@ -3829,6 +3844,8 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  forum:
+    posts: 1
   tags: ["geometry", "distances"]
 
 - number: "214"
@@ -3848,7 +3865,7 @@
     last_update: "2026-08-03"
   forum:
     posts: 2
-  tags: ["geometry", "distances"]
+  tags: ["geometry", "distances", "ramsey theory"]
 
 - number: "215"
   prize: "no"
@@ -3900,7 +3917,7 @@
     state: "no"
     last_update: "2025-08-31"
   forum:
-    posts: 1
+    posts: 3
   tags: ["geometry", "distances"]
 
 - number: "218"
@@ -4190,7 +4207,7 @@
     state: "yes"
     last_update: "2025-08-31"
   forum:
-    posts: 16
+    posts: 17
   tags: ["number theory", "primes"]
 
 - number: "234"
@@ -4372,7 +4389,7 @@
     last_update: "2025-08-31"
   forum:
     posts: 7
-  tags: ["number theory"]
+  tags: ["number theory", "irrationality"]
 
 - number: "244"
   prize: "no"
@@ -4425,6 +4442,7 @@
     last_update: "2026-07-02"
   forum:
     posts: 1
+    proof_claims: 1
   tags: ["number theory"]
 
 - number: "247"
@@ -4496,7 +4514,7 @@
     state: "yes"
     last_update: "2025-08-31"
   forum:
-    posts: 2
+    posts: 3
   tags: ["number theory", "irrationality"]
 
 - number: "251"
@@ -4514,7 +4532,7 @@
     state: "yes"
     last_update: "2025-08-31"
   forum:
-    posts: 4
+    posts: 8
   tags: ["number theory", "irrationality"]
 
 - number: "252"
@@ -4533,6 +4551,7 @@
     last_update: "2026-01-03"
   forum:
     posts: 3
+    proof_claims: 1
   tags: ["number theory", "irrationality"]
 
 - number: "253"
@@ -4697,8 +4716,8 @@
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-09-02"
   forum:
     posts: 3
   tags: ["number theory"]
@@ -4773,7 +4792,7 @@
     state: "no"
     last_update: "2025-08-31"
   forum:
-    posts: 2
+    posts: 3
     proof_claims: 1
   comments: "ambiguous statement"
   tags: ["irrationality"]
@@ -5018,7 +5037,8 @@
     last_update: "2025-08-31"
   forum:
     posts: 4
-    proof_claims: 1
+    proof_claims: 3
+    proof_claim_posts: 2
   tags: ["number theory", "covering systems"]
 
 - number: "279"
@@ -5036,7 +5056,7 @@
     state: "yes"
     last_update: "2026-05-15"
   forum:
-    posts: 11
+    posts: 12
   tags: ["number theory", "covering systems", "primes"]
 
 - number: "280"
@@ -5180,7 +5200,7 @@
     state: "yes"
     last_update: "2026-06-24"
   forum:
-    posts: 20
+    posts: 21
   tags: ["number theory", "unit fractions"]
 
 - number: "288"
@@ -5217,6 +5237,8 @@
     last_update: "2025-08-31"
   forum:
     posts: 4
+    proof_claims: 3
+    proof_claim_posts: 7
   tags: ["number theory", "unit fractions"]
 
 - number: "290"
@@ -5236,6 +5258,7 @@
     last_update: "2026-06-26"
   forum:
     posts: 4
+    proof_claims: 1
   tags: ["number theory", "unit fractions"]
 
 - number: "291"
@@ -5321,6 +5344,9 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  forum:
+    proof_claims: 2
+    proof_claim_posts: 1
   tags: ["number theory", "unit fractions"]
 
 - number: "296"
@@ -5807,8 +5833,8 @@
     last_update: "2025-08-31"
   oeis: ["A025456", "A025418"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-09-07"
   forum:
     posts: 1
   tags: ["number theory", "powers"]
@@ -5848,7 +5874,7 @@
     last_update: "2025-08-31"
   forum:
     posts: 2
-  tags: ["number theory", "powers"]
+  tags: ["number theory", "powers", "sidon sets"]
 
 - number: "325"
   prize: "no"
@@ -5941,7 +5967,7 @@
     last_update: "2025-08-31"
   forum:
     posts: 1
-  tags: ["number theory"]
+  tags: ["number theory", "sidon sets"]
 
 - number: "330"
   prize: "no"
@@ -6234,12 +6260,12 @@
 - number: "346"
   prize: "no"
   informal_status:
-    state: "open"
+    state: "solved"
     last_update: "2025-08-31"
   formal_status:
     state: "unformalized"
   status:
-    state: "open"
+    state: "solved"
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
@@ -6286,6 +6312,8 @@
     last_update: "2025-08-31"
   forum:
     posts: 2
+    proof_claims: 2
+    proof_claim_posts: 1
   tags: ["number theory", "complete sequences"]
 
 - number: "349"
@@ -6304,6 +6332,7 @@
     last_update: "2025-08-31"
   forum:
     posts: 12
+    proof_claims: 1
   tags: ["number theory", "complete sequences"]
 
 - number: "350"
@@ -6396,8 +6425,8 @@
     state: "yes"
     last_update: "2025-09-05"
   forum:
-    posts: 10
-  tags: ["number theory"]
+    posts: 11
+  tags: ["number theory", "complete sequences"]
 
 - number: "355"
   prize: "no"
@@ -6450,7 +6479,7 @@
     state: "yes"
     last_update: "2025-10-17"
   forum:
-    posts: 10
+    posts: 11
     proof_claims: 1
   tags: ["number theory"]
 
@@ -6582,7 +6611,7 @@
     last_update: "2025-08-31"
   forum:
     posts: 5
-  tags: ["number theory"]
+  tags: ["number theory", "powerful"]
 
 - number: "365"
   prize: "no"
@@ -6600,7 +6629,7 @@
     last_update: "2025-08-31"
   forum:
     posts: 3
-  tags: ["number theory"]
+  tags: ["number theory", "powerful"]
 
 - number: "366"
   prize: "no"
@@ -6621,7 +6650,7 @@
     proof_claims: 2
     proof_claim_posts: 1
   comments: "ambiguous statement"
-  tags: ["number theory"]
+  tags: ["number theory", "powerful"]
 
 - number: "367"
   prize: "no"
@@ -6639,7 +6668,7 @@
     last_update: "2026-08-20"
   forum:
     posts: 7
-  tags: ["number theory"]
+  tags: ["number theory", "powerful"]
 
 - number: "368"
   prize: "no"
@@ -6783,8 +6812,8 @@
     state: "yes"
     last_update: "2026-01-18"
   forum:
-    posts: 5
-  tags: ["number theory"]
+    posts: 6
+  tags: ["number theory", "primes"]
 
 - number: "376"
   prize: "no"
@@ -6963,6 +6992,8 @@
   formalized:
     state: "yes"
     last_update: "2026-01-26"
+  forum:
+    posts: 1
   tags: ["number theory"]
 
 - number: "386"
@@ -7438,7 +7469,8 @@
     state: "no"
     last_update: "2025-08-31"
   forum:
-    posts: 4
+    posts: 5
+    proof_claims: 1
   tags: ["number theory", "iterated functions"]
 
 - number: "412"
@@ -7608,12 +7640,12 @@
 - number: "421"
   prize: "no"
   informal_status:
-    state: "open"
+    state: "solved"
     last_update: "2025-08-31"
   formal_status:
     state: "unformalized"
   status:
-    state: "open"
+    state: "solved"
     last_update: "2025-08-31"
   oeis: ["A389544", "A390848"]
   formalized:
@@ -7654,8 +7686,8 @@
     last_update: "2025-08-31"
   oeis: ["A005243"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-09-02"
   forum:
     posts: 38
   tags: ["number theory"]
@@ -7800,8 +7832,8 @@
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-09-02"
   comments: "inverse Goldbach problem"
   tags: ["number theory", "primes"]
 
@@ -7836,8 +7868,8 @@
     last_update: "2026-02-24"
   oeis: ["possible"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-09-02"
   forum:
     posts: 7
   tags: ["number theory"]
@@ -8171,8 +8203,8 @@
     last_update: "2025-08-31"
   oeis: ["possible"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-09-02"
   forum:
     posts: 1
   tags: ["number theory"]
@@ -8338,7 +8370,7 @@
     state: "no"
     last_update: "2025-08-31"
   forum:
-    posts: 7
+    posts: 8
   tags: ["number theory", "primes"]
 
 - number: "462"
@@ -8353,8 +8385,8 @@
     last_update: "2025-08-31"
   oeis: ["A032742", "possible"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-09-02"
   forum:
     posts: 1
   tags: ["number theory", "primes"]
@@ -8616,12 +8648,12 @@
 - number: "477"
   prize: "no"
   informal_status:
-    state: "open"
+    state: "solved"
     last_update: "2025-08-31"
   formal_status:
     state: "unformalized"
   status:
-    state: "open"
+    state: "solved"
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
@@ -8630,7 +8662,7 @@
   forum:
     posts: 8
     proof_claims: 1
-  tags: ["number theory"]
+  tags: ["number theory", "sidon sets"]
 
 - number: "478"
   prize: "no"
@@ -8644,8 +8676,8 @@
     last_update: "2025-08-31"
   oeis: ["A210184"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-09-07"
   forum:
     posts: 2
     proof_claims: 1
@@ -8833,7 +8865,7 @@
     last_update: "2025-08-31"
   forum:
     posts: 31
-    proof_claims: 1
+    proof_claims: 2
   tags: ["number theory"]
 
 - number: "489"
@@ -8871,7 +8903,7 @@
     state: "no"
     last_update: "2025-08-31"
   forum:
-    posts: 3
+    posts: 4
   tags: ["number theory"]
 
 - number: "491"
@@ -9056,19 +9088,19 @@
 - number: "501"
   prize: "no"
   informal_status:
-    state: "open"
+    state: "independent"
     last_update: "2025-08-31"
   formal_status:
     state: "unformalized"
   status:
-    state: "open"
+    state: "independent"
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
     state: "yes"
     last_update: "2026-05-11"
   forum:
-    posts: 12
+    posts: 13
     proof_claims: 1
   tags: ["combinatorics", "set theory"]
 
@@ -9161,7 +9193,7 @@
     state: "yes"
     last_update: "2026-08-14"
   forum:
-    posts: 3
+    posts: 4
     proof_claims: 2
     proof_claim_posts: 1
   tags: ["geometry"]
@@ -9219,7 +9251,7 @@
   forum:
     posts: 2
     proof_claims: 1
-  tags: ["analysis"]
+  tags: ["analysis", "polynomials"]
 
 - number: "510"
   prize: "no"
@@ -9705,7 +9737,7 @@
     state: "yes"
     last_update: "2025-11-12"
   forum:
-    posts: 10
+    posts: 11
     proof_claims: 2
     proof_claim_posts: 4
   tags: ["number theory"]
@@ -9763,7 +9795,7 @@
     last_update: "2026-04-16"
   forum:
     posts: 8
-  tags: ["number theory"]
+  tags: ["number theory", "additive combinatorics"]
 
 - number: "540"
   prize: "no"
@@ -9851,8 +9883,8 @@
     last_update: "2025-08-31"
   oeis: ["A000791"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-09-09"
   forum:
     posts: 2
   tags: ["graph theory", "ramsey theory"]
@@ -9869,8 +9901,8 @@
     last_update: "2025-12-02"
   oeis: ["A059442", "possible"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-09-09"
   forum:
     posts: 16
   tags: ["graph theory", "ramsey theory"]
@@ -9887,8 +9919,8 @@
     last_update: "2025-08-31"
   oeis: ["possible"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-09-09"
   tags: ["graph theory", "ramsey theory"]
 
 - number: "547"
@@ -9903,28 +9935,31 @@
     last_update: "2025-09-11"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-09-09"
   forum:
-    posts: 3
+    posts: 5
   tags: ["graph theory", "ramsey theory"]
 
 - number: "548"
   prize: "no"
   informal_status:
-    state: "falsifiable"
+    state: "proved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-09-03"
   status:
-    state: "falsifiable"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-09-03"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-09-07"
   forum:
-    posts: 1
+    posts: 6
+    proof_claims: 2
+    proof_claim_posts: 1
   tags: ["graph theory"]
 
 - number: "549"
@@ -9939,8 +9974,8 @@
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-09-09"
   forum:
     posts: 1
   tags: ["graph theory", "ramsey theory"]
@@ -9957,8 +9992,8 @@
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-09-09"
   forum:
     posts: 7
     proof_claims: 1
@@ -9976,8 +10011,8 @@
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-09-09"
   forum:
     posts: 1
   tags: ["graph theory", "ramsey theory"]
@@ -9994,8 +10029,8 @@
     last_update: "2025-08-31"
   oeis: ["A006672"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-09-09"
   forum:
     posts: 1
   tags: ["graph theory", "ramsey theory"]
@@ -10073,19 +10108,20 @@
 - number: "557"
   prize: "no"
   informal_status:
-    state: "open"
+    state: "proved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-09-03"
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-09-03"
   oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
   forum:
-    posts: 5
+    posts: 6
   tags: ["graph theory", "ramsey theory"]
 
 - number: "558"
@@ -10154,7 +10190,7 @@
     last_update: "2025-08-31"
   forum:
     posts: 5
-    proof_claims: 1
+    proof_claims: 2
   tags: ["graph theory", "ramsey theory"]
 
 - number: "562"
@@ -10185,8 +10221,8 @@
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-09-09"
   forum:
     posts: 2
   tags: ["graph theory", "ramsey theory", "hypergraphs"]
@@ -10269,8 +10305,8 @@
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-09-09"
   tags: ["graph theory", "ramsey theory"]
 
 - number: "569"
@@ -10285,8 +10321,8 @@
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-09-09"
   forum:
     posts: 3
     proof_claims: 2
@@ -10305,8 +10341,8 @@
     last_update: "2026-01-16"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-09-09"
   forum:
     posts: 3
   tags: ["graph theory", "ramsey theory"]
@@ -10314,17 +10350,21 @@
 - number: "571"
   prize: "no"
   informal_status:
-    state: "open"
+    state: "proved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-09-03"
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-09-03"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-09-07"
+  forum:
+    posts: 6
+    proof_claims: 1
   tags: ["graph theory", "turan number"]
 
 - number: "572"
@@ -10339,11 +10379,11 @@
     last_update: "2025-08-31"
   oeis: ["possible"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-09-09"
   forum:
     posts: 3
-  tags: ["graph theory", "turan number"]
+  tags: ["graph theory", "turan number", "cycles"]
 
 - number: "573"
   prize: "no"
@@ -10382,12 +10422,12 @@
 - number: "575"
   prize: "no"
   informal_status:
-    state: "open"
+    state: "disproved"
     last_update: "2025-08-31"
   formal_status:
     state: "unformalized"
   status:
-    state: "open"
+    state: "disproved"
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
@@ -10528,10 +10568,10 @@
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-09-07"
   forum:
-    posts: 3
+    posts: 4
   tags: ["graph theory"]
 
 - number: "584"
@@ -10772,6 +10812,8 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  forum:
+    proof_claims: 1
   tags: ["graph theory", "ramsey theory", "set theory"]
 
 - number: "598"
@@ -10980,8 +11022,8 @@
     last_update: "2025-08-31"
   oeis: ["possible"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-09-09"
   forum:
     posts: 1
   tags: ["graph theory", "ramsey theory"]
@@ -11036,7 +11078,7 @@
     state: "no"
     last_update: "2025-08-31"
   forum:
-    posts: 1
+    posts: 6
   tags: ["graph theory"]
 
 - number: "613"
@@ -11056,7 +11098,7 @@
     last_update: "2026-05-09"
   forum:
     posts: 4
-  tags: ["graph theory"]
+  tags: ["graph theory", "ramsey"]
 
 - number: "614"
   prize: "no"
@@ -11184,7 +11226,7 @@
     state: "no"
     last_update: "2025-08-31"
   forum:
-    posts: 1
+    posts: 2
   comments: "Erdős-Rogers problem"
   tags: ["graph theory"]
 
@@ -11266,12 +11308,12 @@
 - number: "625"
   prize: "$1000"
   informal_status:
-    state: "open"
+    state: "solved"
     last_update: "2025-08-31"
   formal_status:
     state: "unformalized"
   status:
-    state: "open"
+    state: "solved"
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
@@ -11279,8 +11321,8 @@
     last_update: "2025-08-31"
   forum:
     posts: 3
-    proof_claims: 2
-    proof_claim_posts: 7
+    proof_claims: 3
+    proof_claim_posts: 14
   tags: ["graph theory", "chromatic number"]
 
 - number: "626"
@@ -11576,7 +11618,7 @@
     state: "no"
     last_update: "2025-08-31"
   forum:
-    posts: 3
+    posts: 4
   tags: ["graph theory", "cycles"]
 
 - number: "643"
@@ -11632,7 +11674,7 @@
     last_update: "2025-08-31"
   forum:
     posts: 2
-  tags: ["number theory", "additive combinatorics", "ramsey theory"]
+  tags: ["number theory", "additive combinatorics", "ramsey theory", "arithmetic progressions"]
 
 - number: "646"
   prize: "no"
@@ -11668,7 +11710,7 @@
     state: "yes"
     last_update: "2025-10-13"
   forum:
-    posts: 14
+    posts: 16
   tags: ["number theory"]
 
 - number: "648"
@@ -11797,6 +11839,8 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  forum:
+    posts: 1
   tags: ["geometry", "distances"]
 
 - number: "655"
@@ -12345,6 +12389,8 @@
     last_update: "2025-08-31"
   forum:
     posts: 27
+    proof_claims: 2
+    proof_claim_posts: 3
   tags: ["number theory", "primes", "binomial coefficients"]
 
 - number: "685"
@@ -12434,7 +12480,7 @@
   forum:
     posts: 30
     proof_claims: 2
-    proof_claim_posts: 7
+    proof_claim_posts: 10
   tags: ["number theory"]
 
 - number: "690"
@@ -12519,7 +12565,7 @@
   status:
     state: "solved (Lean)"
     last_update: "2026-05-06"
-  oeis: ["possible"]
+  oeis: ["A002181", "A006511", "A049283", "A057635", "possible"]
   formalized:
     state: "yes"
     last_update: "2025-08-31"
@@ -12782,6 +12828,8 @@
     last_update: "2025-08-31"
   forum:
     posts: 1
+    proof_claims: 2
+    proof_claim_posts: 1
   tags: ["number theory"]
 
 - number: "709"
@@ -12866,8 +12914,8 @@
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-09-07"
   forum:
     posts: 3
   tags: ["graph theory", "turan number"]
@@ -12884,8 +12932,8 @@
     last_update: "2025-08-31"
   oeis: ["possible"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-09-07"
   tags: ["graph theory", "turan number"]
 
 - number: "715"
@@ -12972,6 +13020,7 @@
     last_update: "2025-08-31"
   forum:
     posts: 1
+    proof_claims: 1
   tags: ["graph theory", "hypergraphs"]
 
 - number: "720"
@@ -13110,7 +13159,8 @@
     state: "yes"
     last_update: "2025-08-31"
   forum:
-    posts: 6
+    posts: 7
+    proof_claims: 1
   tags: ["number theory", "factorials"]
 
 - number: "728"
@@ -13154,12 +13204,12 @@
 - number: "730"
   prize: "no"
   informal_status:
-    state: "open"
+    state: "solved"
     last_update: "2025-08-31"
   formal_status:
     state: "unformalized"
   status:
-    state: "open"
+    state: "solved"
     last_update: "2025-08-31"
   oeis: ["A129515"]
   formalized:
@@ -13342,7 +13392,8 @@
     last_update: "2026-05-09"
   forum:
     posts: 1
-    proof_claims: 1
+    proof_claims: 3
+    proof_claim_posts: 1
   tags: ["graph theory", "chromatic number"]
 
 - number: "741"
@@ -13399,7 +13450,7 @@
     state: "no"
     last_update: "2025-08-31"
   forum:
-    posts: 5
+    posts: 6
   comments: "tree packing conjecture"
   tags: ["graph theory"]
 
@@ -13578,7 +13629,7 @@
     state: "yes"
     last_update: "2026-08-04"
   forum:
-    posts: 1
+    posts: 2
   tags: ["graph theory", "chromatic number"]
 
 - number: "754"
@@ -13924,8 +13975,8 @@
     last_update: "2025-08-31"
   oeis: ["A390813"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-09-07"
   forum:
     posts: 11
   tags: ["number theory", "sidon sets", "squares"]
@@ -13982,7 +14033,7 @@
     state: "no"
     last_update: "2025-08-31"
   forum:
-    posts: 8
+    posts: 9
     proof_claims: 3
     proof_claim_posts: 3
   tags: ["combinatorics"]
@@ -14164,6 +14215,7 @@
     last_update: "2025-08-31"
   forum:
     posts: 10
+    proof_claims: 1
   tags: ["number theory"]
 
 - number: "787"
@@ -14272,6 +14324,8 @@
     last_update: "2025-08-31"
   forum:
     posts: 3
+    proof_claims: 2
+    proof_claim_posts: 2
   tags: ["additive combinatorics"]
 
 - number: "793"
@@ -14413,8 +14467,8 @@
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-09-09"
   tags: ["graph theory", "ramsey theory"]
 
 - number: "801"
@@ -14696,7 +14750,9 @@
     state: "yes"
     last_update: "2025-08-31"
   forum:
-    posts: 5
+    posts: 6
+    proof_claims: 2
+    proof_claim_posts: 4
   tags: ["additive combinatorics"]
 
 - number: "818"
@@ -14844,7 +14900,7 @@
     last_update: "2025-08-31"
   forum:
     posts: 16
-  tags: ["number theory"]
+  tags: ["number theory", "divisors", "unit fractions"]
 
 - number: "826"
   prize: "no"
@@ -15084,8 +15140,8 @@
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-09-02"
   forum:
     posts: 2
   tags: ["number theory"]
@@ -15651,7 +15707,7 @@
     state: "no"
     last_update: "2025-08-31"
   forum:
-    posts: 9
+    posts: 10
   tags: ["number theory", "additive basis"]
 
 - number: "871"
@@ -15708,7 +15764,7 @@
     state: "yes"
     last_update: "2025-08-31"
   forum:
-    posts: 9
+    posts: 10
   tags: ["number theory"]
 
 - number: "874"
@@ -15816,7 +15872,7 @@
     state: "no"
     last_update: "2025-08-31"
   forum:
-    posts: 1
+    posts: 2
   tags: ["number theory"]
 
 - number: "880"
@@ -15883,8 +15939,8 @@
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-09-09"
   forum:
     posts: 3
     proof_claims: 2
@@ -16492,6 +16548,9 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  forum:
+    proof_claims: 2
+    proof_claim_posts: 1
   tags: ["graph theory", "chromatic number"]
 
 - number: "918"
@@ -16560,8 +16619,8 @@
     last_update: "2025-08-31"
   oeis: ["possible"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-09-09"
   tags: ["graph theory", "chromatic number", "cycles"]
 
 - number: "922"
@@ -16810,7 +16869,7 @@
     last_update: "2025-08-31"
   forum:
     posts: 12
-  tags: ["number theory"]
+  tags: ["number theory", "powerful"]
 
 - number: "936"
   prize: "no"
@@ -16828,7 +16887,7 @@
     last_update: "2025-08-31"
   forum:
     posts: 6
-  tags: ["number theory"]
+  tags: ["number theory", "powerful"]
 
 - number: "937"
   prize: "no"
@@ -16845,7 +16904,7 @@
   formalized:
     state: "yes"
     last_update: "2026-06-24"
-  tags: ["number theory"]
+  tags: ["number theory", "powerful"]
 
 - number: "938"
   prize: "no"
@@ -16863,7 +16922,7 @@
     last_update: "2025-08-31"
   forum:
     posts: 1
-  tags: ["number theory"]
+  tags: ["number theory", "powerful"]
 
 - number: "939"
   prize: "no"
@@ -16881,7 +16940,7 @@
     last_update: "2025-09-01"
   forum:
     posts: 9
-  tags: ["number theory"]
+  tags: ["number theory", "powerful"]
 
 - number: "940"
   prize: "no"
@@ -16899,7 +16958,8 @@
     last_update: "2025-08-31"
   forum:
     posts: 8
-  tags: ["number theory"]
+    proof_claims: 1
+  tags: ["number theory", "powerful"]
 
 - number: "941"
   prize: "no"
@@ -16915,7 +16975,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
-  tags: ["number theory"]
+  tags: ["number theory", "powerful"]
 
 - number: "942"
   prize: "no"
@@ -16933,7 +16993,7 @@
     last_update: "2025-08-31"
   forum:
     posts: 12
-  tags: ["number theory"]
+  tags: ["number theory", "powerful"]
 
 - number: "943"
   prize: "no"
@@ -16951,7 +17011,7 @@
     last_update: "2025-08-31"
   forum:
     posts: 5
-  tags: ["number theory"]
+  tags: ["number theory", "powerful"]
 
 - number: "944"
   prize: "no"
@@ -16968,7 +17028,9 @@
     state: "yes"
     last_update: "2025-09-02"
   forum:
-    posts: 2
+    posts: 3
+    proof_claims: 2
+    proof_claim_posts: 1
   tags: ["graph theory", "chromatic number"]
 
 - number: "945"
@@ -17312,7 +17374,7 @@
     state: "no"
     last_update: "2025-08-31"
   forum:
-    posts: 18
+    posts: 20
   tags: ["number theory"]
 
 - number: "964"
@@ -17437,8 +17499,8 @@
     last_update: "2025-08-31"
   oeis: ["A048669"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-09-07"
   comments: "Jacobsthal's function"
   tags: ["number theory"]
 
@@ -17535,7 +17597,7 @@
     last_update: "2025-12-20"
   forum:
     posts: 4
-  tags: ["number theory", "divisors"]
+  tags: ["number theory", "divisors", "polynomials"]
 
 - number: "976"
   prize: "no"
@@ -17728,8 +17790,8 @@
     last_update: "2026-06-21"
   oeis: ["A000791", "A059442"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-09-09"
   forum:
     posts: 6
   tags: ["graph theory", "ramsey theory"]
@@ -18010,8 +18072,8 @@
     last_update: "2026-04-28"
   forum:
     posts: 2
-    proof_claims: 3
-    proof_claim_posts: 6
+    proof_claims: 4
+    proof_claim_posts: 7
   oeis: ["N/A"]
   tags: ["analysis", "diophantine approximation"]
 
@@ -18054,12 +18116,12 @@
 - number: "1005"
   prize: "no"
   informal_status:
-    state: "open"
+    state: "solved"
     last_update: "2025-09-09"
   formal_status:
     state: "unformalized"
   status:
-    state: "open"
+    state: "solved"
     last_update: "2025-09-09"
   formalized:
     state: "no"
@@ -18125,7 +18187,7 @@
   forum:
     posts: 7
   oeis: ["N/A"]
-  tags: ["graph theory"]
+  tags: ["graph theory", "cycles"]
 
 - number: "1009"
   prize: "no"
@@ -18177,7 +18239,7 @@
     state: "no"
     last_update: "2025-09-10"
   forum:
-    posts: 9
+    posts: 10
   oeis: ["possible"]
   tags: ["graph theory"]
 
@@ -18214,7 +18276,7 @@
   forum:
     posts: 15
   oeis: ["A292528"]
-  tags: ["graph theory"]
+  tags: ["graph theory", "chromatic number"]
 
 - number: "1014"
   prize: "no"
@@ -18233,7 +18295,7 @@
   forum:
     posts: 7
   oeis: ["possible"]
-  tags: ["graph theory"]
+  tags: ["graph theory", "ramsey theory"]
 
 - number: "1015"
   prize: "no"
@@ -18334,8 +18396,8 @@
     state: "falsifiable"
     last_update: "2025-09-12"
   formalized:
-    state: "no"
-    last_update: "2025-09-10"
+    state: "yes"
+    last_update: "2026-09-07"
   forum:
     posts: 6
   oeis: ["N/A"]
@@ -18497,8 +18559,8 @@
     state: "open"
     last_update: "2025-09-13"
   formalized:
-    state: "no"
-    last_update: "2025-09-10"
+    state: "yes"
+    last_update: "2026-09-09"
   forum:
     posts: 1
   oeis: ["A059442"]
@@ -18515,8 +18577,8 @@
     state: "open"
     last_update: "2025-09-13"
   formalized:
-    state: "no"
-    last_update: "2025-09-10"
+    state: "yes"
+    last_update: "2026-09-09"
   forum:
     posts: 2
   oeis: ["A000791", "A059442"]
@@ -18606,8 +18668,8 @@
     state: "open"
     last_update: "2025-12-26"
   formalized:
-    state: "no"
-    last_update: "2025-09-10"
+    state: "yes"
+    last_update: "2026-09-01"
   forum:
     posts: 6
   oeis: ["possible"]
@@ -18665,7 +18727,7 @@
     state: "yes"
     last_update: "2025-12-31"
   forum:
-    posts: 141
+    posts: 142
     proof_claims: 5
     proof_claim_posts: 6
   oeis: ["N/A"]
@@ -18686,8 +18748,9 @@
     last_update: "2025-09-10"
   forum:
     posts: 16
+    proof_claims: 1
   oeis: ["N/A"]
-  tags: ["analysis"]
+  tags: ["analysis", "polynomials"]
 
 - number: "1040"
   prize: "no"
@@ -18703,7 +18766,8 @@
     state: "no"
     last_update: "2025-09-10"
   forum:
-    posts: 1
+    posts: 3
+    proof_claims: 3
   oeis: ["N/A"]
   tags: ["analysis"]
 
@@ -18721,9 +18785,9 @@
     state: "yes"
     last_update: "2025-11-26"
   forum:
-    posts: 47
+    posts: 49
   oeis: ["N/A"]
-  tags: ["analysis"]
+  tags: ["analysis", "polynomials"]
 
 - number: "1042"
   prize: "no"
@@ -18882,8 +18946,8 @@
     state: "proved"
     last_update: "2025-09-28"
   formalized:
-    state: "no"
-    last_update: "2025-09-28"
+    state: "yes"
+    last_update: "2026-09-01"
   oeis: ["A331372"]
   tags: ["irrationality"]
 
@@ -19043,7 +19107,8 @@
     state: "yes"
     last_update: "2025-11-02"
   forum:
-    proof_claims: 1
+    proof_claims: 3
+    proof_claim_posts: 1
   oeis: ["A064152"]
   tags: ["number theory", "primes"]
 
@@ -19061,7 +19126,7 @@
     state: "yes"
     last_update: "2025-12-13"
   forum:
-    posts: 2
+    posts: 7
   oeis: ["A327153"]
   tags: ["number theory"]
 
@@ -19333,6 +19398,8 @@
     last_update: "2025-09-28"
   forum:
     posts: 3
+    proof_claims: 2
+    proof_claim_posts: 1
   oeis: ["N/A"]
   tags: ["hypergraphs"]
 
@@ -19456,7 +19523,7 @@
     state: "yes"
     last_update: "2026-02-25"
   forum:
-    posts: 21
+    posts: 22
   oeis: ["possible"]
   tags: ["geometry", "distances"]
 
@@ -19471,8 +19538,8 @@
     state: "open"
     last_update: "2025-10-17"
   formalized:
-    state: "no"
-    last_update: "2025-09-28"
+    state: "yes"
+    last_update: "2026-09-07"
   forum:
     posts: 2
   oeis: ["A186704", "possible"]
@@ -19560,8 +19627,8 @@
     state: "open"
     last_update: "2025-10-17"
   formalized:
-    state: "no"
-    last_update: "2025-09-28"
+    state: "yes"
+    last_update: "2026-09-01"
   oeis: ["possible"]
   tags: ["geometry"]
 
@@ -19616,7 +19683,7 @@
   forum:
     posts: 2
   oeis: ["N/A"]
-  tags: ["geometry", "chromatic number"]
+  tags: ["chromatic number", "graph theory"]
 
 - number: "1092"
   prize: "no"
@@ -19635,7 +19702,7 @@
   forum:
     posts: 6
   oeis: ["N/A"]
-  tags: ["geometry", "chromatic number"]
+  tags: ["chromatic number", "graph theory"]
 
 - number: "1093"
   prize: "no"
@@ -20089,6 +20156,8 @@
     last_update: "2025-09-28"
   forum:
     posts: 1
+    proof_claims: 2
+    proof_claim_posts: 1
   oeis: ["N/A"]
   tags: ["analysis"]
 
@@ -20178,6 +20247,7 @@
     last_update: "2025-12-30"
   forum:
     posts: 1
+    proof_claims: 1
   oeis: ["N/A"]
   tags: ["number theory"]
 
@@ -20355,6 +20425,8 @@
     last_update: "2026-01-01"
   forum:
     posts: 2
+    proof_claims: 2
+    proof_claim_posts: 2
   oeis: ["N/A"]
   tags: ["analysis", "polynomials"]
 
@@ -20412,7 +20484,7 @@
     posts: 4
   oeis: ["A006370", "A008908"]
   comments: "Collatz conjecture"
-  tags: ["number theory"]
+  tags: ["number theory", "iterated functions"]
 
 - number: "1136"
   prize: "no"
@@ -20575,6 +20647,9 @@
   formalized:
     state: "no"
     last_update: "2026-01-23"
+  forum:
+    proof_claims: 2
+    proof_claim_posts: 6
   oeis: ["N/A"]
   tags: ["number theory", "probability"]
 
@@ -20716,6 +20791,9 @@
   formalized:
     state: "no"
     last_update: "2026-01-23"
+  forum:
+    proof_claims: 2
+    proof_claim_posts: 1
   oeis: ["N/A"]
   tags: ["analysis", "polynomials"]
 
@@ -20734,6 +20812,7 @@
     last_update: "2026-01-23"
   forum:
     posts: 10
+    proof_claims: 1
   oeis: ["N/A"]
   tags: ["analysis", "polynomials"]
 
@@ -20835,8 +20914,8 @@
     state: "open"
     last_update: "2026-01-23"
   formalized:
-    state: "no"
-    last_update: "2026-01-23"
+    state: "yes"
+    last_update: "2026-09-07"
   forum:
     posts: 1
   oeis: ["N/A"]
@@ -20856,7 +20935,7 @@
     state: "no"
     last_update: "2026-01-23"
   forum:
-    posts: 3
+    posts: 4
   oeis: ["A000001"]
   tags: ["group theory"]
 
@@ -20891,7 +20970,7 @@
   formalized:
     state: "no"
     last_update: "2026-01-23"
-  oeis: ["possible"]
+  oeis: ["A005432", "possible"]
   tags: ["group theory"]
 
 - number: "1163"
@@ -20909,6 +20988,7 @@
     last_update: "2026-01-23"
   forum:
     posts: 2
+    proof_claims: 1
   oeis: ["N/A"]
   comments: "ambiguous statement"
   tags: ["group theory"]
@@ -20981,7 +21061,7 @@
   forum:
     posts: 3
   oeis: ["N/A"]
-  tags: ["set theory", "probability"]
+  tags: ["set theory", "ramsey theory"]
 
 - number: "1168"
   prize: "no"
@@ -21050,6 +21130,9 @@
   formalized:
     state: "no"
     last_update: "2026-01-23"
+  forum:
+    posts: 1
+    proof_claims: 1
   oeis: ["N/A"]
   tags: ["set theory", "ramsey theory"]
 
@@ -21141,7 +21224,7 @@
   forum:
     posts: 1
   oeis: ["N/A"]
-  tags: ["set theory", "chromatic number"]
+  tags: ["set theory", "ramsey theory"]
 
 - number: "1177"
   prize: "no"
@@ -21225,7 +21308,7 @@
   formalized:
     state: "no"
     last_update: "2026-03-07"
-  oeis: ["possible"]
+  oeis: ["A053669", "A053670", "A053671", "A053672", "A053673", "A053674", "possible"]
   tags: ["number theory"]
 
 - number: "1182"
@@ -21243,6 +21326,7 @@
     last_update: "2026-03-07"
   forum:
     posts: 3
+    proof_claims: 1
   oeis: ["possible"]
   tags: ["graph theory", "ramsey theory"]
 
@@ -21346,7 +21430,7 @@
     state: "yes"
     last_update: "2026-08-07"
   forum:
-    posts: 5
+    posts: 6
     proof_claims: 1
   oeis: ["possible"]
   tags: ["number theory", "covering systems"]
@@ -21475,7 +21559,7 @@
   forum:
     posts: 6
   oeis: ["possible"]
-  tags: ["number theory"]
+  tags: ["number theory", "analysis"]
 
 - number: "1196"
   prize: "no"
@@ -21664,8 +21748,8 @@
     state: "open"
     last_update: "2026-04-04"
   formalized:
-    state: "no"
-    last_update: "2026-04-04"
+    state: "yes"
+    last_update: "2026-09-07"
   forum:
     posts: 2
   oeis: ["possible"]
@@ -21682,8 +21766,8 @@
     state: "open"
     last_update: "2026-04-04"
   formalized:
-    state: "no"
-    last_update: "2026-04-04"
+    state: "yes"
+    last_update: "2026-09-07"
   forum:
     posts: 1
   oeis: ["possible"]
@@ -21774,6 +21858,7 @@
     last_update: "2026-06-24"
   forum:
     posts: 3
+    proof_claims: 1
   oeis: ["possible"]
   tags: ["number theory", "primes"]
 
